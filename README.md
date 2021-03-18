@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawandeep19&label=Profile%20views&color=0e75b6&style=flat" alt="pawandeep19" /> </p>
 
-- 🔭 I’m currently working on [Yelp Camp Project](https://github.com/Pawandeep19/Yelp-Camp)
+- 🔭 I’m currently working on [Yelp Camp Project](https://github.com/Pawandeep19/YelpCamp)
 
-- 🌱 I’m currently learning **Back-end frameworks**
+- 🌱 I’m currently polishing **Back-end frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pawandeep19](https://github.com/Pawandeep19)
 
