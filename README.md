@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Yelp Camp Project](https://github.com/Pawandeep19/YelpCamp)
 
-- 🌱 I’m currently polishing **Back-end frameworks**
+- 🌱 I’m currently polishing my skills on **Back-end frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pawandeep19](https://github.com/Pawandeep19)
 
