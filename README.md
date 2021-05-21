@@ -6,7 +6,7 @@
 
 - 🔭 My most famous project is [Yelp Camp Project](https://github.com/Pawandeep19/YelpCamp)
 
-- 🌱 I’m currently polishing my skills on **Web-Development**
+- 🌱 I’m currently polishing my skills on **Data Structures,Algorithms and Web-Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pawandeep19](https://github.com/Pawandeep19)
 
