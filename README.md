@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pawandeep-s-0b0a58106/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pawandeep-s-0b0a58106/" height="30" width="40" /></a>
 <a href="https://instagram.com/pawandeep19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pawandeep19" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pawandeep19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pawandeep19" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sirpawandeep25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pawandeep19" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sirpawandeep25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sirpawandeep25" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sirpawandeep25/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sirpawandeep25/profile" height="30" width="40" /></a>
 </p>
