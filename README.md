@@ -1,16 +1,14 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h1 align="center">Hi 👋, I'm Pawan</h1>
-<h3 align="center">A passionate Full Stack Web-Developer and a Java Programmer</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawandeep19&label=Profile%20views&color=0e75b6&style=flat" alt="pawandeep19" /> </p>
 
-- 🔭 My most famous project is [Yelp Camp Project](https://github.com/Pawandeep19/YelpCamp)
+- 🔭 My most recent project is [Yelp Camp Project](https://github.com/Pawandeep19/YelpCamp)
 
-- 🌱 I’m currently polishing my skills on **Data Structures,Algorithms and Web-Development**
+- 🌱 I’m currently polishing my skills on **DSA, Java Spring-Boot and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pawandeep19](https://github.com/Pawandeep19)
-
-- 💬 Ask me about **Web Development and other Tech related stuffs**
 
 - 📫 How to reach me **sirpawandeep25@gmail.com**
 
